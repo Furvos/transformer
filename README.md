@@ -49,7 +49,7 @@ Instalação:
 ```bash
 pip install -r requirements.txt
 ```
-        ou
+ou
 ```bash
 pip install numpy
 ```

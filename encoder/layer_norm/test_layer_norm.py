@@ -1,5 +1,4 @@
 import numpy as np
-
 from layer_norm import layer_norm
 
 X = np.array([
